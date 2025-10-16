@@ -1,3 +1,3 @@
 # Executive Summary
-Project Overview
+## Project Overview
 This project analyzes a company's end-to-end supply chain performance to 
